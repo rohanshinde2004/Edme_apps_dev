@@ -3,7 +3,7 @@
 # Cron:    * * * * * /path/to/monitor_server.sh   (check every minute)
 
 # ---------- Configuration ----------
-SERVER_HOST="example.com"            # Host/IP to ping
+SERVER_HOST="qms-edme-apps-dev"            # Host/IP to ping
 SERVER_URL="https://example.com"     # URL to check over HTTP(S); leave empty to skip
 PING_COUNT=3
 TIMEOUT=10                           # Seconds before a check is considered failed
