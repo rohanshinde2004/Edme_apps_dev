@@ -1,3 +1,2 @@
 Hi
-this is the file for 
-amazon cart for the practice the git commands.
+we are editing these file for the webhook job configuration.
